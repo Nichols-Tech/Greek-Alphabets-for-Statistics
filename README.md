@@ -78,4 +78,19 @@ The Greek alphabet is widely employed in statistics to represent various paramet
 ## 24. Ω (Omega)
   - Population Variance: Ω is sometimes used to represent the population variance.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33803413/125096316-5134c200-e0d5-11eb-96b0-acaaec0ca110.png">
+</p>
+ 
+
+
 Understanding these symbols enhances the comprehension of statistical formulas and facilitates effective communication in the field of statistics. Each Greek letter carries a specific meaning, contributing to the clarity and precision of statistical analyses.
+
+To delve deeper into the world of statistics and enhance your understanding, consider exploring the following platforms:
+
+[W3Schools - Statistics](https://www.w3schools.com/statistics/index.php)
+
+[Stat Trek - Online Statistics Learning Center](https://stattrek.com/)
+
+[Towards Data Science - Medium Publication](https://towardsdatascience.com/)
+
